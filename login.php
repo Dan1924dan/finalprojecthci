@@ -35,7 +35,7 @@
                 <button type="submit" class="btn btn-primary" name="login_user">Login</button>
               </div>
               <p class="mt-3">
-                Not yet a member? <a href="register.php">Sign up</a>
+                Not yet a member? <a href="index.php">Sign up</a>
               </p>
             </form>
             <div id="output" class="mt-3"></div>
